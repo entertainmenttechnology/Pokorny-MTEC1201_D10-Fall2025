@@ -24,11 +24,10 @@ _Have an idea for this list? DM me on Discord!_
 ### Creative Coding Inspiration 
 [Open Processing](https://www.openprocessing.org)     
 [Experiments with Google Chrome](https://experiments.withgoogle.com/collection/chrome)    
-[Labs.Google](https://labs.google/) 
   
 ### Tutorials / Demos / Projects        
-[The Coding Train](https://www.youtube.com/user/shiffman/playlists)   
-[Code Academy](https://www.codecademy.com/)   
+[The Coding Train - Youtube](https://www.youtube.com/user/shiffman/playlists)   
+[The Coding Train - p5.js Tracks](https://thecodingtrain.com/tracks/lang/p5-js/topic/all)   
 
 ### MDN Guide for "Plain" JavaScript  
 [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
