@@ -1,9 +1,8 @@
 ## **MTEC 1201: COMPUTER PROGRAMMING FOR INTERACTIVE MEDIA I**   
-
   
 Emerging Media Technology   
 Department of Entertainment Technology   
-New York City College of Technology  
+CUNY New York City College of Technology  
 Fall 2025
 
   
