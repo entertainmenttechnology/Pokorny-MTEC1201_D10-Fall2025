@@ -47,7 +47,7 @@ Course materials and assignments will generally be posted to GitHub on Wednesday
   
 ## REQUIRED MATERIALS               
 * A sketchbook, or paper to sketch with (does not need to be exclusive to this class)    
-* A Mac or PC computer with internet access [see "Laptop Requirements" under Resources for more info]
+* A Mac or PC computer with internet access [see "[Laptop Requirements](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025/blob/main/resources/laptop-requirements.md)" for more info]
 * Free software and accounts: Discord, Github, Visual Studio Code, Google Chrome Browser        
     
   
