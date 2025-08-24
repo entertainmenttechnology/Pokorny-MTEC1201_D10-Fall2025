@@ -9,7 +9,7 @@ Fall 2025
 MTEC 1201 - D10     
 Computer Programming for Interactive Media I   
 Professor: Ian Pokorny     
-Wednesday, 10:00 AM - 1:40 PM   
+Friday, 10:00 AM - 1:40 PM   
 Modality: Fully in person    
 Location: Voorhees V103B      
 Course site: [\[this GitHub repo\]](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025)                  
