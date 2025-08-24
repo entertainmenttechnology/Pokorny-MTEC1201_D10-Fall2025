@@ -1,5 +1,5 @@
 ## CityTech Emerging Media Technology - Student Laptop Requirements
-All Emerging Media students are now required to own a laptop computer. The computer should be Mac or Windows only and should adhere to the minimum or recommended specs below. While we do have older model Mac laptops available in classroom, I would reccomend bringing your own laptop for the sake of easier file management and smoother workflow. 
+All Emerging Media students are now required to own a laptop computer. The computer should be Mac or Windows only and should adhere to the minimum or recommended specs below. While we do have older model Mac laptops available in classroom, I would recommend bringing your own laptop for the sake of easier file management and smoother workflow. 
 
 ## WINDOWS PC
 ### Minimum Windows Hardware Requirements
