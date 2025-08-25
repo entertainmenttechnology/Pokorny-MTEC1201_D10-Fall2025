@@ -22,13 +22,32 @@ _Sign up for office hours through Discord DM or Email_
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
      
 ### LEARNING OUTCOMES       
-For the successful completion of this course, a student should be able to:    
-* Develop literacy for reading and writing in a coding language.  
-* Recognize and articulate computational strategies used in contemporary interactive media projects.  
-* Demonstrate learning and problem-solving methodologies, including use of coding reference, documentation materials, and flow charting.    
-* Implement foundational coding concepts and techniques to realize interactive software experiences, including use of: variables, logical comparison, and arithmetic operators; conditionals, functions; loops; arrays; and an introduction to Object Oriented Programming.  
-* Design, develop, debug, and iterate an interactive software experience from ideation through final project presentation.  
-   
+For the successful completion of this course, a student should be able to ...   
+1. Develop literacy for reading and writing in a coding language.  
+2. Recognize and articulate computational strategies used in contemporary interactive media projects.  
+3. Demonstrate learning and problem-solving methodologies, including use of coding reference, documentation materials, and flow charting.    
+4. Implement foundational coding concepts and techniques to realize interactive software experiences, including use of: variables, logical comparison, and arithmetic operators; conditionals, functions; loops; arrays; and an introduction to Object Oriented Programming.  
+5. Design, develop, debug, and iterate an interactive software experience from ideation through final project presentation.   
+
+… using these corresponding evaluation methods and criteria:    
+1. In technical exercises and short study assignments, students write original code and “comment” pre-existing code into plain language.    
+2. In class discussions, students evaluate computational strategies used in wide ranging creative projects. Students articulate interactive models used in their own projects.
+3. Technical exercises and assignments require use of support materials not already covered in class for successful completion. Students complete flow-charting assignments to demonstrate comprehension.
+4. Weekly short study assignments and projects require implementation of these concepts and techniques.
+5. Students complete project deliverables demonstrating each project phase.       
+
+### GENERAL EDUCATION LEARNING OUTCOMES:
+For the successful completion of this course, a student should be able to ...     
+1. Employ scientific reasoning and logical thinking.
+2. Use creativity to solve problems.
+3. Gather, interpret, evaluate, and apply information discerningly from a variety of sources.
+
+... using these corresponding evaluation methods and criteria:
+
+1. Students complete technical exercises, flow-charts, short study assignments, and projects employing logic-based computation.
+2. Students use creative thinking in order to apply technical concepts to build code-driven interactive media projects.
+3. Students complete assignments and projects based on synthesis from multiple sources: in-class lectures and demos, readings and technical exercises, reference materials, and targeted independent research.
+
 ###  COURSE STRUCTURE  
 The course combines lectures and presentations, critiques, discussions, and studio/lab time. Typically, students work on technical exercises each week, along with creative short study projects integrating these newly learned techniques. There will be two larger interactive software projects during the semester- a midterm and final project- largely independently driven, with iterative project development.            
     
@@ -231,7 +250,10 @@ TECHNIQUE
 **SESSION 13: [12/5]**    
 TOPIC             
 * Playtesting and Work-in-Progress Critiques for Final Projects  
-* Special Topics TBD / Review
+* Hosting p5.js Projects Online
+
+TECHNIQUE         
+* Deploy a website using GitHub repository
            
 **SESSION 14: [12/12]**    
 TOPIC   
