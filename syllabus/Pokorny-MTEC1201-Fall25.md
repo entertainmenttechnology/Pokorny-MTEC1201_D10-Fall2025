@@ -49,9 +49,9 @@ For the successful completion of this course, a student should be able to ...
 3. Students complete assignments and projects based on synthesis from multiple sources: in-class lectures and demos, readings and technical exercises, reference materials, and targeted independent research.
 
 ###  COURSE STRUCTURE  
-The course combines lectures and presentations, critiques, discussions, and studio/lab time. Typically, students work on technical exercises each week, along with creative short study projects integrating these newly learned techniques. There will be two larger interactive software projects during the semester- a midterm and final project- largely independently driven, with iterative project development.            
+The course combines lectures and presentations, critiques, discussions, and studio/lab time. Typically, students work on technical exercises each week, along with creative short study projects integrating these newly learned techniques. There will be two larger interactive software projects during the semester - a midterm and final project - largely independently driven, with iterative project development.            
     
-Course materials and assignments will generally be posted to GitHub on Wednesdays of each week, due the following Wednesday before class begins. We will create small peer groups for extra tech support during and outside of class hours.    
+Course materials and assignments for the week’s session will be posted to GitHub on the same day of class. Assignments are due before the next class session begins.   
 
 ## PROJECTS AND ASSIGNMENTS      
 * Weekly creative short study assignments, demonstrating programming proficiency and creative concept development. Students implement required technical parameters for each week, while engaging with a chosen creative theme.   
