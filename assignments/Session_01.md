@@ -5,7 +5,7 @@
 * **Download & Install [Visual Studio Code](https://code.visualstudio.com)**
 * **Install [p5.js extension for VS Code](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).**
 * **[Review our syllabus](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025/blob/main/syllabus/Pokorny-MTEC1201-Fall25.md)** and familiarize yourself with the plan and protocols. If you have questions, send me a DM (direct message) on Discord.  
-* **Review your schedule** and allocate blocks of time for our class and outside homework. For this class, most assignments should take 3-5 hours. If more ambitious with the work, you may need more time than this, especially around midterm and finals when developing larger projects.  
+* **Review your schedule** and allocate blocks of time for our class and outside homework. For this class, most assignments should take 3-5 hours. If more ambitious with the work, you may need more time than this, especially around midterm and finals when developing larger projects. I recommend that you schedule these blocks of time for _all_ of your classes, so that you can manage your time effectively, balancing school work with free time and the rest of your life. If you do not have a planner already, I highly recommend starting a digital planner such as Google calendar (or a paper calendar if you prefer scheduling by hand). Think about where you can most effectively work and concentrate, whether from home, in our computer labs, the library, or elsewhere. Many students find it helpful to maintain a regular routine for where and when they work. 
 
 
 ### **Explore**   
