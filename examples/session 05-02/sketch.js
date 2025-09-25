@@ -10,20 +10,22 @@
  */
 
 //Create a p5.Image object to store image
-let tuna; //Declares p5.Image object called cupcake
+let tuna; //Declares p5.Image object called tuna
 
 //Creates variables for text animation
 let opacity = 0;
 let fade = 1;
 
 //Load image assets into preload() to avoid asynchronous loading errors
-function preload() {
+function preload() 
+{
 	tuna = loadImage("images/tuna.png"); //Assign image asset to p5.Image object using loadImage() 
-	//Use preload() only to load assets-- nothing else!
+	//Use preload() only to load assets & nothing else!
 }
 
 //setup() is called AFTER preload() is complete and runs one time only
-function setup() {
+function setup() 
+{
 	createCanvas(500, 500);
 	background(255);
 	imageMode(CENTER); //draws images from center point
