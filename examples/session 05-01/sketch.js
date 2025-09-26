@@ -3,9 +3,6 @@
 //		Demo: working with image assets.		//
 ////////////////////////////////////////////
  
- Go to "files" tab (on OpenProcessing menu to the right-- click upper right icon to reveal menu if hidden).
- Upload image assets as indicated. 
- 
  Note the use of preload() in this sketch for loading assets before setup() is called. 
  */
 
