@@ -26,7 +26,7 @@
 
 13. [Jayden](https://github.com/jaythebraattt-dotcom/my-repo-for-mtec)
 
-14. 
+14. [Jose](https://github.com/joselpzc/Jose-mtec1201-fall25/tree/main)
 
 15. 
 
