@@ -1,4 +1,4 @@
-## Due FRIDAY, 10/10
+## Due before class on Friday, 10/10
 
 ### **Familiarize Yourself with the following:**            
     
@@ -8,7 +8,7 @@
 
 ### **Midterm Project WIP**    
 
-Your midterm work in progress sketch is due before class on 3/19. See the [Midterm Project](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D301-302-Spring2025/blob/main/assignments/MIDTERM.md) requirements for more details. There is no additional short study assignment for this week.  
+Your midterm work in progress sketch is due before class on 10/10. See the [Midterm Project](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D301-302-Spring2025/blob/main/assignments/MIDTERM.md) requirements for more details. There is no additional short study assignment for this week.  
 
 ### **Recommended:**   
 Watch these Coding Train Videos on Functions:
