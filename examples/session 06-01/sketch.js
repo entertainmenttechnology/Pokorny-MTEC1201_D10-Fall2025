@@ -18,14 +18,14 @@ User-Defined Functions pt.I
 
  function setup() 
  {
-   createCanvas (500, 500);
+   createCanvas(500, 500);
    textAlign(CENTER);
    textSize(22);
  }
  
  function draw() 
  {
-   background (150);
+   background(150);
    
    //call iceCream function with different arguments
    iceCream(50, 200, 65, 170, 230, 180, "MINT!"); //mint flavor
