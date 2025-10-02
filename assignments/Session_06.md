@@ -8,7 +8,8 @@
 
 ### **Midterm Project WIP**    
 
-Your midterm work in progress sketch is due before class on 10/10. See the [Midterm Project](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025/blob/main/assignments/MIDTERM.md) requirements for more details. There is no additional short study assignment for this week.  
+Your midterm work in progress sketch is due before class on 10/10. See the [Midterm Project](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025/blob/main/assignments/MIDTERM.md) requirements for more details.    
+There is no additional short study assignment for this week.  
 
 ### **Recommended:**   
 Watch these Coding Train Videos on Functions:
