@@ -1,4 +1,6 @@
-## Due FRIDAY, 10/24
+## Due FRIDAY, 10/31
+
+NOTE: no class next Friday 10/24
   
 ### **Midterm 2nd Iteration**    
 Taking class feedback into account, submit a second iteration of your midterm project. 
