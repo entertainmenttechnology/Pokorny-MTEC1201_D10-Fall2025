@@ -26,11 +26,11 @@ _Using the p5.js library, complete an interactive work inspired by your chosen t
 *  Using program states will be critical for this project. Refer back to our demos for multiple states examples.    
   
 ## **Due Dates**
-* **Wednesday, 10/10: Work in Progress Draft DUE** 
+* **FRIDAY, 10/10: Work in Progress Draft DUE** 
 
 This sketch must be runnable. You can work on any aspect of your midterm project, and not all requirements need to be included for the WIP. The WIP should show at least a week's worth of development towards the midterm (minimum of 3-5 hours spent outside of class). Save the completed project as "Midterm_WIP_[FirstName + Last Initial]" (for example, "Midterm_WIP_IanP"). Submit to your GitHub class repo. Remember to include the full contents of p5 project folder.
  
-* **Wednesday, 10/17: Completed Midterm Projects DUE** 
+* **FRIDAY, 10/17: Completed Midterm Projects DUE** 
 
 Save the completed project as "Midterm_Final_[FirstName + Last Initial]" (for example, "Midterm_Final_IanP"). Submit to your GitHub class repo. Remember to include the full contents of p5 project folder.
  
