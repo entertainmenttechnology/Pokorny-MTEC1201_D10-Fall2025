@@ -4,9 +4,10 @@
 
 ### **Familiarize Yourself with the following...**            
     
-[array](https://p5js.org/reference/p5/Array/)     
-.length (returns size of the array)   
-[int()](https://p5js.org/reference/p5/int/)     
+* [array](https://p5js.org/reference/p5/Array/)     
+* .length (returns size of the array)   
+* [int()](https://p5js.org/reference/p5/int/)   
+* [array.push()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)     
    
 
 ### **Short Study #6: Arrays**    
