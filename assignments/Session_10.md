@@ -1,7 +1,5 @@
 ## Due before class on Friday, 11/14
 
-### REMINDER: SPRING BREAK NEXT WEEK -  NO CLASS 4/16
-
 ### **Familiarize Yourself with the following...**            
     
 [array](https://p5js.org/reference/p5/Array/)     
