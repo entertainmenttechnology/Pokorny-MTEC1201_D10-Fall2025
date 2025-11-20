@@ -1,3 +1,5 @@
+### REMINDER: No Class Session on 11/28
+
 ## Due before class on Friday, 12/5
 ### **Final Project: Work-In-Progress #1**  
 
