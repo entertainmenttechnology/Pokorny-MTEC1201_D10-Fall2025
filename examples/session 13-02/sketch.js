@@ -11,7 +11,7 @@ let video;            // video object variable
 let pixelWidth = 16;  // size of pixel area to capture (measured in square pixels) 
 
 //color value thresholds
-let rThresh = 120;
+let rThresh = 120;  
 let gThresh = 150;
 let bThresh = 170;
 
